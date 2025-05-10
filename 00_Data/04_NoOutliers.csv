@@ -1,0 +1,553 @@
+Gender,Generation,Term Sub Reason,Employee Grade,Location,Career Bucket,Age Bucket,Manager ID,Talent,Department,active_months
+Female,Millennials,Career Growth,Junior,Bengaluru,Below 30,26 To 30,102292,,AC,59.0
+Female,Millennials,Career Growth,Mid,Bengaluru,31 to 35,26 To 30,100411,,AD,4.0
+Male,Millennials,Career Growth,Junior,Bengaluru,Below 30,26 To 30,102304,,AG,26.0
+Male,Gen X,Career Growth,Senior,Bengaluru,Above 35,36 T0 40,102324,,AI,126.0
+Male,Millennials,Personal Reason,Mid,Bengaluru,31 to 35,31 To 35,100619,,AI,126.0
+Male,Millennials,Career Growth,Junior,Bengaluru,31 to 35,31 To 35,100846,,AI,112.0
+Male,Millennials,Career Growth,Mid,Bengaluru,31 to 35,31 To 35,102324,,AI,137.0
+Male,Millennials,Career Growth,Junior,Bengaluru,31 to 35,31 To 35,100598,,AI,13.0
+Male,Millennials,Personal Reason,Junior,Bengaluru,Below 30,21 To 25,100726,,AI,42.0
+Male,Millennials,Personal Reason,Junior,Bengaluru,Below 30,21 To 25,100667,,AI,43.0
+Male,Gen X,Career Growth,Mid,Bengaluru,Above 35,36 T0 40,101059,,AO,90.0
+Male,Gen X,Career Growth,Junior,Bengaluru,Above 35,36 T0 40,101321,,AP,76.0
+Male,Millennials,Career Growth,Mid,Bengaluru,31 to 35,31 To 35,101379,,AQ,66.0
+Male,Millennials,Career Growth,Junior,Bengaluru,31 to 35,31 To 35,102350,,AS,61.0
+Male,Millennials,Career Growth,Mid,Bengaluru,31 to 35,31 To 35,100188,,AC,88.0
+Male,Millennials,Personal Reason,Junior,Bengaluru,31 to 35,26 To 30,100416,,AD,37.0
+Female,Millennials,Personal Reason,Mid,Bengaluru,31 to 35,31 To 35,100439,,AI,59.0
+Male,Millennials,Personal Reason,Junior,Bengaluru,31 to 35,31 To 35,101040,,AU,67.0
+Male,Gen X,Career Growth,Mid,Bengaluru,Above 35,41 T0 45,100254,,AV,69.0
+Male,Millennials,Career Growth,Junior,Bengaluru,Below 30,21 To 25,101571,,AS,8.0
+Male,Gen X,Career Growth,Mid,Bengaluru,Above 35,31 To 35,100543,,AW,15.0
+Male,Millennials,Career Growth,Junior,Bengaluru,Below 30,26 To 30,100620,,AI,23.0
+Female,Millennials,Career Growth,Junior,Bengaluru,31 to 35,26 To 30,100667,,AI,42.0
+Male,Millennials,Career Growth,Mid,Bengaluru,Below 30,26 To 30,100754,,AI,81.0
+Male,Millennials,Career Growth,Mid,Bengaluru,31 to 35,31 To 35,101059,,AO,31.0
+Male,Millennials,Personal Reason,Junior,Bengaluru,31 to 35,31 To 35,101379,,AQ,66.0
+Female,Gen X,Personal Reason,Mid,Bengaluru,31 to 35,31 To 35,101444,,AR,14.0
+Female,Gen X,Career Growth,Mid,Bengaluru,Above 35,36 T0 40,101569,,AS,78.0
+Male,Gen X,Career Growth,Mid,Bengaluru,Above 35,36 T0 40,102366,,AT,128.0
+Male,Millennials,Career Growth,Mid,Bengaluru,31 to 35,31 To 35,100296,,AT,14.0
+Male,Millennials,Career Growth,Junior,Bengaluru,31 to 35,31 To 35,101540,,AY,74.0
+Male,Gen X,Career Growth,Mid,Bengaluru,Above 35,36 T0 40,100282,,AX,88.0
+Female,Millennials,Career Growth,Mid,Bengaluru,31 to 35,31 To 35,102367,,AZ,47.0
+Female,Millennials,Career Growth,Junior,Gujarath,31 to 35,26 To 30,102368,,BA,91.0
+Female,Millennials,Career Growth,Junior,Bengaluru,Below 30,21 To 25,100794,,AI,34.0
+Female,Millennials,Career Growth,Junior,Bengaluru,31 to 35,31 To 35,100439,,AI,70.0
+Male,Millennials,Career Growth,Mid,Bengaluru,31 to 35,31 To 35,100650,,AI,100.0
+Male,Gen X,Career Growth,Mid,Bengaluru,Above 35,36 T0 40,102387,,BD,22.0
+Male,Millennials,Personal Reason,Junior,Bengaluru,Below 30,26 To 30,101288,,BE,60.0
+Female,Millennials,Career Growth,Junior,Bengaluru,Below 30,21 To 25,101377,,AQ,24.0
+Male,Gen X,Career Growth,Mid,Bengaluru,Above 35,36 T0 40,101444,,AR,117.0
+Female,Millennials,Career Growth,Junior,Bengaluru,Below 30,21 To 25,101451,,AR,39.0
+Female,Millennials,Career Growth,Junior,Bengaluru,Below 30,26 To 30,100442,,BF,36.0
+Female,Millennials,Career Growth,Junior,Bengaluru,Below 30,26 To 30,100186,,AC,62.0
+Male,Millennials,Personal Reason,Mid,Bengaluru,31 to 35,31 To 35,100277,,AX,50.0
+Male,Gen X,Relocated to Other Branch,Senior,Bengaluru,Above 35,46 T0 50,102383,,AD,83.0
+Male,Millennials,Career Growth,Junior,Bengaluru,31 to 35,31 To 35,101058,,AU,21.0
+Female,Gen X,Career Growth,Mid,Bengaluru,Above 35,36 T0 40,101076,,BG,132.0
+Male,Millennials,Career Growth,Junior,Bengaluru,31 to 35,31 To 35,101162,,BH,29.0
+Male,Millennials,Career Growth,Junior,Hyderabad,Below 30,26 To 30,101322,,AP,28.0
+Male,Millennials,Career Growth,Junior,Bengaluru,Below 30,26 To 30,101495,,AV,47.0
+Male,Millennials,Career Growth,Junior,Bengaluru,Below 30,26 To 30,101437,,AY,70.0
+Male,Millennials,Career Growth,Mid,Bengaluru,31 to 35,31 To 35,101540,,AY,79.0
+Male,Millennials,Career Growth,Junior,Bengaluru,31 to 35,31 To 35,100105,,AL,74.0
+Male,Millennials,Career Growth,Junior,Bengaluru,Below 30,26 To 30,100191,,AC,21.0
+Female,Millennials,Career Growth,Junior,Bengaluru,Below 30,26 To 30,100186,,AC,47.0
+Female,Millennials,Career Growth,Junior,Bengaluru,Below 30,26 To 30,100170,,AC,53.0
+Male,Millennials,Career Growth,Junior,Bengaluru,31 to 35,31 To 35,100780,,AI,71.0
+Male,Millennials,Career Growth,Junior,Bengaluru,Below 30,26 To 30,100794,,AI,71.0
+Male,Millennials,Career Growth,Junior,Bengaluru,Below 30,26 To 30,101056,,AU,38.0
+Male,Gen X,Personal Reason,Mid,Chennai,Above 35,31 To 35,101253,,BP,10.0
+Male,Millennials,Career Growth,Junior,Bengaluru,31 to 35,31 To 35,102417,,BS,61.0
+Male,Gen X,Salary Hike,Mid,Hyderabad,Above 35,31 To 35,101319,,AP,97.0
+Male,Gen X,Career Growth,Mid,Vadodara,Above 35,41 T0 45,101604,,BU,95.0
+Male,Millennials,Career Growth,Junior,Bengaluru,31 to 35,31 To 35,102420,,AY,17.0
+Male,Millennials,Career Growth,Junior,Bengaluru,31 to 35,26 To 30,101701,,AY,31.0
+Female,Millennials,Career Growth,Junior,Bengaluru,31 to 35,26 To 30,101540,,AY,41.0
+Male,Millennials,Personal Reason,Mid,Bengaluru,31 to 35,31 To 35,102420,,AY,45.0
+Male,Millennials,Higher Studies,Junior,Bengaluru,Below 30,26 To 30,100190,,AC,25.0
+Female,Millennials,Career Growth,Junior,Bengaluru,Below 30,26 To 30,100186,,AC,37.0
+Male,Gen X,Career Growth,Mid,Bengaluru,Above 35,36 T0 40,102361,,AX,73.0
+Female,Millennials,Relocation to Native,Junior,Bengaluru,31 to 35,31 To 35,100107,,BJ,54.0
+Male,Millennials,Salary Hike,Junior,Bengaluru,31 to 35,26 To 30,100107,,BJ,66.0
+Female,Millennials,Higher Studies,Junior,Bengaluru,Below 30,21 To 25,100583,,BT,36.0
+Male,Millennials,Salary Hike,Mid,Bengaluru,31 to 35,31 To 35,100650,,AI,2.0
+Female,Millennials,Career Growth,Junior,Bengaluru,Below 30,21 To 25,100726,,AI,24.0
+Male,Millennials,Career Growth,Junior,Bengaluru,Below 30,21 To 25,100620,,AI,24.0
+Female,Millennials,Higher Studies,Junior,Bengaluru,Below 30,21 To 25,100780,,AI,24.0
+Female,Millennials,Higher Studies,Junior,Bengaluru,Below 30,21 To 25,100032,,AI,24.0
+Female,Millennials,Career Growth,Junior,Bengaluru,31 to 35,31 To 35,100650,,AI,31.0
+Female,Millennials,Higher Studies,Junior,Bengaluru,Below 30,21 To 25,100633,,AI,36.0
+Female,Millennials,Higher Studies,Junior,Bengaluru,Below 30,26 To 30,100693,,AI,48.0
+Female,Millennials,Relocation to Native,Junior,Bengaluru,31 to 35,31 To 35,101059,,AO,40.0
+Male,Millennials,Relocation to Native,Mid,Bengaluru,31 to 35,31 To 35,101162,,BH,71.0
+Male,Millennials,Higher Studies,Junior,Bengaluru,Below 30,21 To 25,101321,,AP,24.0
+Female,Millennials,Higher Studies,Junior,Hyderabad,Below 30,26 To 30,101322,,AP,48.0
+Male,Millennials,Higher Studies,Junior,Hyderabad,Below 30,26 To 30,101322,,AP,56.0
+Male,Millennials,Higher Studies,Junior,Bengaluru,Below 30,21 To 25,101390,,BZ,37.0
+Male,Gen X,Relocation to Native,Mid,Bengaluru,Above 35,36 T0 40,101150,,CA,124.0
+Female,Millennials,Higher Studies,Junior,Bengaluru,Below 30,26 To 30,101494,,BF,48.0
+Male,Millennials,Career Growth,Junior,Bengaluru,Below 30,26 To 30,102428,,AS,5.0
+Male,Gen X,Career Growth,Mid,Bengaluru,Above 35,46 T0 50,101568,,AS,71.0
+Male,Millennials,Higher Studies,Junior,Bengaluru,Below 30,21 To 25,102366,,AT,48.0
+Male,Millennials,Higher Studies,Mid,Bengaluru,Below 30,26 To 30,102366,,AT,72.0
+Male,Millennials,Career Growth,Junior,Bengaluru,Below 30,21 To 25,101540,,AY,25.0
+Male,Gen X,Career Growth,Mid,Bengaluru,Above 35,36 T0 40,101674,,AY,69.0
+Male,Millennials,Relocation to Native,Mid,Bengaluru,31 to 35,31 To 35,100620,,AI,14.0
+Male,Millennials,Salary Hike,Junior,Bengaluru,Below 30,26 To 30,100605,,AI,25.0
+Male,Millennials,Higher Studies,Junior,Bengaluru,Below 30,21 To 25,100679,,AI,38.0
+Male,Millennials,Internal Politics,Mid,Bengaluru,31 to 35,31 To 35,100650,,AI,69.0
+Male,Millennials,Company Rules,Junior,Bengaluru,Below 30,26 To 30,100692,,AI,74.0
+Male,Gen X,Career Growth,Mid,Bengaluru,Above 35,36 T0 40,101098,,CB,94.0
+Male,Millennials,Relocation to Native,Junior,Bengaluru,Below 30,26 To 30,101059,,AO,38.0
+Male,Millennials,Higher Studies,Junior,Bengaluru,Below 30,26 To 30,101321,,AP,37.0
+Male,Gen X,Personal Reason,Junior,Bengaluru,Above 35,36 T0 40,101424,,AR,50.0
+Female,Millennials,Health Issues,Junior,Bengaluru,Below 30,26 To 30,101413,,AR,73.0
+Male,Gen X,Career Growth,Mid,Bengaluru,Above 35,36 T0 40,101164,,CA,133.0
+Male,Gen X,Work Life Balance,Mid,Bengaluru,Above 35,36 T0 40,101591,,AS,33.0
+Male,Millennials,Career Growth,Junior,Bengaluru,31 to 35,31 To 35,101186,,AY,85.0
+Male,Millennials,Career Growth,Junior,Bengaluru,Below 30,26 To 30,100186,,AC,28.0
+Male,Millennials,Career Growth,Mid,Bengaluru,31 to 35,31 To 35,100190,,AC,73.0
+Male,Millennials,Personal Reason,Mid,Bengaluru,31 to 35,31 To 35,100362,,AD,52.0
+Female,Millennials,Career Growth,Mid,Gujarath,31 to 35,31 To 35,102402,,BN,64.0
+Male,Millennials,Health Issues,Junior,Bengaluru,Below 30,26 To 30,100794,,AI,19.0
+Female,Millennials,Health Issues,Junior,Bengaluru,Below 30,26 To 30,100605,,AI,34.0
+Female,Millennials,Marriage,Junior,Bengaluru,Below 30,26 To 30,101458,,CC,25.0
+Female,Millennials,Relocation to Native,Junior,Bengaluru,Below 30,26 To 30,101586,,AS,9.0
+Male,Millennials,Career Growth,Junior,Bengaluru,31 to 35,31 To 35,102428,,AS,24.0
+Male,Millennials,Career Growth,Junior,Bengaluru,31 to 35,31 To 35,101465,,AY,29.0
+Male,Gen X,Career Growth,Mid,Bengaluru,Above 35,36 T0 40,101465,,AY,108.0
+Male,Gen X,Relocation to Native,Mid,Bengaluru,Above 35,36 T0 40,100185,,AC,101.0
+Female,Millennials,Higher Studies,Junior,Bengaluru,Below 30,21 To 25,100754,,AI,28.0
+Female,Millennials,Relocation to Native,Junior,Bengaluru,31 to 35,26 To 30,100726,,AI,69.0
+Male,Millennials,Career Growth,Junior,Bengaluru,Below 30,26 To 30,101056,,AU,22.0
+Male,Millennials,Relocation to Native,Junior,Bengaluru,31 to 35,31 To 35,100076,,AO,28.0
+Male,Baby Boomers,Career Growth,Mid,Bengaluru,Above 35,51 T0 55,101569,,AS,69.0
+Male,Millennials,Salary Hike,Mid,Bengaluru,31 to 35,31 To 35,101540,,AY,38.0
+Male,Millennials,Career Growth,Junior,Bengaluru,Below 30,21 To 25,101224,,AN,26.0
+Male,Millennials,Career Growth,Junior,Bengaluru,Below 30,26 To 30,100191,,AC,12.0
+Male,Millennials,Salary Hike,Junior,Bengaluru,31 to 35,26 To 30,100188,,AC,20.0
+Male,Millennials,Career Growth,Mid,Bengaluru,31 to 35,31 To 35,102360,,AX,18.0
+Male,Millennials,Career Growth,Mid,Bengaluru,Below 30,26 To 30,100620,,AI,67.0
+Male,Millennials,Relocation to Native,Junior,Bengaluru,31 to 35,31 To 35,100607,,AI,78.0
+Male,Gen X,Career Growth,Mid,Bengaluru,Above 35,36 T0 40,101150,,AO,42.0
+Male,Gen X,Higher Studies,Junior,Bengaluru,Above 35,36 T0 40,100650,,AI,27.0
+Female,Millennials,Career Growth,Junior,Bengaluru,Below 30,26 To 30,100633,,AI,50.0
+Male,Millennials,Career Growth,Mid,Bengaluru,31 to 35,31 To 35,100692,,AI,75.0
+Female,Millennials,Personal Reason,Mid,Bengaluru,31 to 35,31 To 35,101059,,AO,5.0
+Male,Millennials,Career Growth,Junior,Bengaluru,31 to 35,31 To 35,101160,,AO,62.0
+Male,Millennials,Higher Studies,Junior,Bengaluru,Below 30,21 To 25,101321,,AP,30.0
+Male,Baby Boomers,Career Growth,Mid,Bengaluru,Above 35,51 T0 55,101319,,AP,80.0
+Male,Gen X,Internal Politics,Mid,Vadodara,Above 35,46 T0 50,101604,,BU,66.0
+Male,Millennials,Salary Hike,Junior,Bengaluru,Above 35,31 To 35,101515,,AY,68.0
+Male,Millennials,Salary Hike,Junior,Bengaluru,Below 30,26 To 30,100191,,AC,15.0
+Male,Millennials,Career Growth,Junior,Bengaluru,Below 30,26 To 30,100170,,AC,71.0
+Male,Gen X,Career Growth,Mid,Bengaluru,Above 35,36 T0 40,102292,,AC,74.0
+Female,Millennials,Health Issues,Junior,Bengaluru,Below 30,26 To 30,100277,,AX,16.0
+Male,Gen X,Relocation to Native,Mid,Bengaluru,Above 35,36 T0 40,100076,,AO,128.0
+Male,Gen X,Salary Hike,Mid,Chennai,Above 35,36 T0 40,101253,,BP,18.0
+Female,Millennials,Health Issues,Junior,Bengaluru,31 to 35,26 To 30,101494,,AV,66.0
+Male,Millennials,Career Growth,Junior,Bengaluru,Below 30,26 To 30,100188,,BF,16.0
+Male,Gen X,Career Growth,Mid,Bengaluru,Above 35,36 T0 40,102436,,AS,17.0
+Male,Millennials,Career Growth,Junior,Bengaluru,Below 30,26 To 30,100988,,AS,20.0
+Male,Gen X,Not Suitable Job for the Skills,Mid,Bengaluru,Above 35,36 T0 40,101645,,AY,22.0
+Male,Millennials,Salary Hike,Junior,Bengaluru,Below 30,26 To 30,101645,,AY,66.0
+Male,Millennials,Higher Studies,Junior,Bengaluru,31 to 35,31 To 35,101693,,AY,69.0
+Male,Millennials,Career Growth,Junior,Bengaluru,31 to 35,31 To 35,101697,,AY,75.0
+Male,Millennials,Miscellaneous,Mid,Bengaluru,Above 35,31 To 35,101688,,AY,78.0
+Male,Millennials,Personal Reason,Junior,Bengaluru,Below 30,26 To 30,102340,,AL,20.0
+Male,Millennials,Miscellaneous,Junior,Bengaluru,31 to 35,31 To 35,100692,,AI,61.0
+Female,Millennials,Family Problems,Junior,Bengaluru,Below 30,26 To 30,100830,,AI,68.0
+Male,Millennials,Salary Hike,Junior,Bengaluru,31 to 35,31 To 35,101098,,CB,46.0
+Male,Gen X,Career Growth,Mid,Bengaluru,Above 35,36 T0 40,101164,,AO,126.0
+Male,Millennials,Health Issues,Junior,Bengaluru,31 to 35,31 To 35,101059,,AO,10.0
+Male,Millennials,Personal Reason,Junior,Bengaluru,31 to 35,31 To 35,101059,,AO,116.0
+Male,Millennials,Salary Hike,Junior,Bengaluru,Below 30,26 To 30,101495,,BF,22.0
+Male,Millennials,Personal Reason,Junior,Bengaluru,Above 35,31 To 35,100188,,BF,72.0
+Male,Gen X,Personal Reason,Mid,Bengaluru,Above 35,36 T0 40,101569,,AS,40.0
+Male,Millennials,Personal Reason,Junior,Bengaluru,31 to 35,31 To 35,101568,,AS,98.0
+Male,Millennials,Career Growth,Junior,Bengaluru,Below 30,26 To 30,101688,,AY,40.0
+Male,Millennials,Personal Reason,Junior,Bengaluru,31 to 35,31 To 35,100417,,AD,64.0
+Female,Millennials,Personal Reason,Junior,Bengaluru,Below 30,26 To 30,100754,,AI,17.0
+Female,Millennials,Career Growth,Junior,Bengaluru,31 to 35,31 To 35,100743,,AI,26.0
+Male,Gen X,Family Problems,Mid,Bengaluru,Above 35,41 T0 45,102439,,BF,117.0
+Male,Millennials,Career Growth,Junior,Bengaluru,31 to 35,31 To 35,101353,,AS,36.0
+Male,Millennials,Career Growth,Junior,Bengaluru,31 to 35,31 To 35,101591,,AS,63.0
+Female,Millennials,Career Growth,Junior,Bengaluru,Below 30,26 To 30,101566,,AY,34.0
+Male,Millennials,Career Growth,Junior,Gujarath,31 to 35,31 To 35,100017,,AB,72.0
+Male,Gen X,Career Growth,Mid,Bengaluru,Above 35,36 T0 40,102307,,AH,57.0
+Male,Millennials,Higher Studies,Junior,Bengaluru,31 to 35,31 To 35,100191,,AC,82.0
+Male,Millennials,Career Growth,Junior,Bengaluru,31 to 35,26 To 30,100411,,AD,33.0
+Female,Millennials,Personal Reason,Junior,Bengaluru,31 to 35,26 To 30,100515,,BM,105.0
+Female,Millennials,Career Growth,Junior,Bengaluru,Below 30,21 To 25,100605,,AI,21.0
+Male,Gen X,Career Growth,Junior,Bengaluru,Above 35,36 T0 40,100607,,AI,77.0
+Female,Millennials,Family Problems,Junior,Bengaluru,31 to 35,26 To 30,100481,,AU,48.0
+Female,Millennials,Career Growth,Junior,Bengaluru,31 to 35,31 To 35,100076,,AO,79.0
+Male,Millennials,Personal Reason,Junior,Bengaluru,Below 30,26 To 30,102338,,CJ,81.0
+Male,Millennials,Higher Studies,Junior,Bengaluru,Below 30,26 To 30,101435,,AR,57.0
+Male,Millennials,Career Growth,Junior,Bengaluru,31 to 35,31 To 35,101435,,AR,85.0
+Male,Millennials,Career Growth,Junior,Bengaluru,31 to 35,31 To 35,101586,,AS,50.0
+Female,Millennials,Career Growth,Mid,Bengaluru,31 to 35,31 To 35,101569,,AS,58.0
+Male,Gen X,Career Growth,Junior,Bengaluru,Above 35,46 T0 50,101590,,AS,106.0
+Male,Millennials,Career Growth,Junior,Bengaluru,31 to 35,31 To 35,101186,,AY,31.0
+Male,Millennials,Salary Hike,Junior,Bengaluru,31 to 35,26 To 30,101688,,AY,33.0
+Male,Millennials,Work Life Balance,Junior,Bengaluru,Below 30,26 To 30,101566,,AY,50.0
+Male,Millennials,Salary Hike,Junior,Bengaluru,31 to 35,31 To 35,100191,,AC,24.0
+Male,Gen X,Personal Reason,Mid,Bengaluru,Above 35,36 T0 40,100417,,AD,65.0
+Male,Millennials,Higher Studies,Junior,Bengaluru,Below 30,21 To 25,100745,,AI,35.0
+Female,Millennials,Higher Studies,Junior,Bengaluru,Below 30,21 To 25,100605,,AI,32.0
+Female,Millennials,Health Issues,Junior,Bengaluru,Below 30,21 To 25,100599,,AI,27.0
+Male,Millennials,Relocation to Native,Junior,Bengaluru,Below 30,26 To 30,101186,,AY,10.0
+Male,Gen X,Career Growth,Mid,Bengaluru,Above 35,36 T0 40,101725,,AY,124.0
+Female,Millennials,Career Growth,Junior,Bengaluru,Below 30,21 To 25,100667,,AI,35.0
+Female,Millennials,Higher Studies,Junior,Bengaluru,Below 30,26 To 30,100692,,AI,59.0
+Male,Gen X,Career Growth,Mid,Bengaluru,Above 35,36 T0 40,101040,,AU,72.0
+Female,Gen X,Career Growth,Mid,Bengaluru,Above 35,36 T0 40,101076,,BG,12.0
+Male,Millennials,Family Problems,Junior,Bengaluru,31 to 35,31 To 35,100076,,AO,43.0
+Male,Millennials,Personal Reason,Junior,Bengaluru,31 to 35,31 To 35,101435,,AR,24.0
+Male,Millennials,Career Growth,Mid,Bengaluru,Below 30,26 To 30,102439,,BF,59.0
+Male,Gen X,Family Problems,Mid,Bengaluru,Above 35,36 T0 40,102458,,AS,27.0
+Male,Millennials,Career Growth,Mid,Bengaluru,31 to 35,31 To 35,101353,,AS,35.0
+Female,Gen X,Miscellaneous,Junior,Bengaluru,Above 35,36 T0 40,101586,,AS,72.0
+Male,Millennials,Personal Reason,Junior,Bengaluru,31 to 35,31 To 35,100384,,AD,65.0
+Male,Gen X,Career Growth,Mid,Bengaluru,Above 35,36 T0 40,100422,,AD,91.0
+Male,Gen X,Career Growth,Junior,Chennai,Above 35,36 T0 40,102403,,BN,74.0
+Female,Gen X,Personal Reason,Mid,Bengaluru,Above 35,36 T0 40,100743,,AI,11.0
+Female,Millennials,Relocation to Native,Junior,Bengaluru,Below 30,26 To 30,100605,,AI,19.0
+Female,Millennials,Career Growth,Junior,Bengaluru,Below 30,26 To 30,100679,,AI,23.0
+Female,Millennials,Higher Studies,Junior,Bengaluru,Below 30,21 To 25,100611,,AI,19.0
+Female,Millennials,Personal Reason,Mid,Bengaluru,31 to 35,31 To 35,100620,,AI,34.0
+Female,Millennials,Career Growth,Junior,Bengaluru,31 to 35,31 To 35,100743,,AI,55.0
+Male,Millennials,Personal Reason,Junior,Bengaluru,31 to 35,31 To 35,100635,,AI,77.0
+Female,Millennials,Relocation to Native,Junior,Bengaluru,31 to 35,31 To 35,101058,,AU,8.0
+Female,Millennials,Personal Reason,Junior,Bengaluru,Below 30,21 To 25,100468,,AO,37.0
+Male,Millennials,Career Growth,Junior,Bengaluru,31 to 35,31 To 35,100076,,AO,83.0
+Female,Millennials,Family Problems,Junior,Bengaluru,Below 30,21 To 25,101412,,AR,26.0
+Male,Millennials,Salary Hike,Junior,Bengaluru,31 to 35,31 To 35,101401,,AR,25.0
+Male,Gen X,Family Problems,Mid,Bengaluru,Above 35,41 T0 45,101569,,AS,74.0
+Male,Millennials,Career Growth,Mid,Bengaluru,Below 30,26 To 30,101688,,AY,72.0
+Male,Millennials,Personal Reason,Junior,Bengaluru,31 to 35,31 To 35,101645,,AY,77.0
+Female,Millennials,Personal Reason,Junior,Bengaluru,31 to 35,31 To 35,100170,,AC,36.0
+Female,Millennials,Personal Reason,Junior,Bengaluru,31 to 35,26 To 30,100417,,AD,40.0
+Male,Millennials,Personal Reason,Junior,Bengaluru,31 to 35,26 To 30,100667,,AI,64.0
+Male,Millennials,Higher Studies,Junior,Bengaluru,Below 30,26 To 30,100633,,AI,73.0
+Male,Gen X,Personal Reason,Mid,Bengaluru,Above 35,41 T0 45,102338,,AI,77.0
+Male,Millennials,Higher Studies,Junior,Bengaluru,Below 30,26 To 30,100076,,AO,50.0
+Female,Millennials,Personal Reason,Junior,Bengaluru,Below 30,26 To 30,101162,,AO,49.0
+Female,Millennials,Personal Reason,Mid,Chennai,31 to 35,31 To 35,101252,,BP,20.0
+Male,Gen X,Personal Reason,Mid,Chennai,Above 35,41 T0 45,101254,,BP,75.0
+Male,Millennials,Career Growth,Junior,Bengaluru,Below 30,26 To 30,101494,,BF,49.0
+Male,Millennials,Career Growth,Junior,Bengaluru,31 to 35,26 To 30,101566,,AY,11.0
+Male,Millennials,Personal Reason,Mid,Bengaluru,31 to 35,31 To 35,101465,,AY,124.0
+Male,Millennials,Salary Hike,Mid,Bengaluru,Above 35,36 T0 40,100270,,AX,14.0
+Male,Millennials,Salary Hike,Junior,Bengaluru,31 to 35,31 To 35,100538,,BV,56.0
+Male,Millennials,Family Problems,Junior,Bengaluru,Below 30,21 To 25,100601,,AI,3.0
+Male,Millennials,Family Problems,Junior,Bengaluru,31 to 35,31 To 35,100598,,AI,8.0
+Male,Millennials,Relocation to Native,Junior,Bengaluru,Below 30,26 To 30,100620,,AI,20.0
+Female,Millennials,Higher Studies,Junior,Bengaluru,Below 30,21 To 25,100635,,AI,39.0
+Male,Millennials,Salary Hike,Junior,Bengaluru,Below 30,21 To 25,100745,,AI,39.0
+Male,Millennials,Personal Reason,Mid,Bengaluru,31 to 35,31 To 35,100439,,AI,85.0
+Male,Millennials,Career Growth,Junior,Bengaluru,31 to 35,31 To 35,101481,,AV,13.0
+Female,Millennials,Not Interested in JOB,Junior,Bengaluru,31 to 35,31 To 35,101540,,BF,46.0
+Male,Millennials,Salary Hike,Junior,Bengaluru,Below 30,26 To 30,100191,,AC,40.0
+Female,Millennials,Family Problems,Junior,Bengaluru,Below 30,26 To 30,100270,,AX,23.0
+Female,Gen X,Personal Reason,Mid,Bengaluru,Above 35,36 T0 40,100270,,AX,25.0
+Female,Gen X,Personal Reason,Mid,Bengaluru,Above 35,36 T0 40,102338,,AI,110.0
+Male,Millennials,Career Growth,Mid,Bengaluru,31 to 35,31 To 35,102446,,CH,78.0
+Male,Gen X,Career Growth,Junior,Bengaluru,Above 35,41 T0 45,100076,,AO,137.0
+Male,Millennials,Health Issues,Junior,Bengaluru,Below 30,26 To 30,101059,,AO,64.0
+Male,Gen X,Personal Reason,Mid,Bengaluru,Above 35,36 T0 40,100076,,AO,86.0
+Female,Gen X,Personal Reason,Mid,Bengaluru,Above 35,36 T0 40,101725,,AY,140.0
+Male,Gen X,Personal Reason,Mid,Bengaluru,Above 35,36 T0 40,102330,,AJ,129.0
+Male,Millennials,Personal Reason,Junior,Bengaluru,31 to 35,31 To 35,100635,,AI,31.0
+Male,Gen X,Family Problems,Junior,Bengaluru,Above 35,41 T0 45,100830,,AI,65.0
+Female,Gen X,Family Problems,Mid,Bengaluru,Above 35,41 T0 45,102338,,AI,100.0
+Male,Millennials,Salary Hike,Junior,Bengaluru,31 to 35,31 To 35,101058,,AU,22.0
+Male,Millennials,Personal Reason,Junior,Bengaluru,Below 30,26 To 30,101115,,CB,57.0
+Male,Millennials,Career Growth,Junior,Bengaluru,31 to 35,31 To 35,101645,,AY,39.0
+Male,Gen X,Career Growth,Junior,Bengaluru,Above 35,41 T0 45,101495,,BF,117.0
+Male,Millennials,Relocation to Native,Junior,Bengaluru,Below 30,26 To 30,100416,,AD,3.0
+Male,Millennials,Miscellaneous,Junior,Bengaluru,Below 30,26 To 30,100633,,AI,63.0
+Female,Millennials,Relocation to Native,Mid,Bengaluru,31 to 35,31 To 35,100620,,AI,13.0
+Female,Millennials,Health Issues,Junior,Bengaluru,31 to 35,31 To 35,100076,,AO,62.0
+Male,Gen X,Career Growth,Mid,Bengaluru,Above 35,36 T0 40,101413,,AR,26.0
+Male,Millennials,Career Growth,Junior,Bengaluru,31 to 35,31 To 35,101435,,AR,80.0
+Male,Gen X,Relocation to Native,Mid,Bengaluru,Above 35,41 T0 45,102364,,AX,99.0
+Female,Millennials,Relocation to Native,Junior,Bengaluru,Below 30,26 To 30,100416,,AD,6.0
+Male,Gen X,Career Growth,Junior,Bengaluru,Above 35,36 T0 40,100421,,AD,102.0
+Female,Millennials,Salary Hike,Junior,Bengaluru,31 to 35,31 To 35,101224,,BO,55.0
+Male,Millennials,Salary Hike,Junior,Bengaluru,31 to 35,31 To 35,100599,,AI,36.0
+Female,Millennials,Personal Reason,Mid,Bengaluru,31 to 35,31 To 35,100667,,AI,80.0
+Female,Millennials,Health Issues,Junior,Bengaluru,Below 30,26 To 30,101413,,AR,56.0
+Male,Millennials,Career Growth,Mid,Bengaluru,Above 35,36 T0 40,101413,,AR,65.0
+Male,Millennials,Career Growth,Mid,Bengaluru,31 to 35,31 To 35,100431,,AD,48.0
+Male,Millennials,Career Growth,Junior,Bengaluru,Below 30,26 To 30,100605,,AI,36.0
+Male,Millennials,Marriage,Junior,Bengaluru,Below 30,26 To 30,100620,,AI,46.0
+Male,Millennials,Miscellaneous,Junior,Bengaluru,31 to 35,26 To 30,101435,,AR,8.0
+Male,Millennials,Career Growth,Junior,Bengaluru,Below 30,26 To 30,101494,,BF,8.0
+Male,Gen X,Career Growth,Senior,Bengaluru,Above 35,46 T0 50,101725,,AY,75.0
+Male,Millennials,Family Problems,Junior,Bengaluru,31 to 35,31 To 35,100017,,AB,75.0
+Female,Gen X,Career Growth,Mid,Pune,Above 35,36 T0 40,101254,,BP,41.0
+Male,Millennials,Career Growth,Junior,Bengaluru,31 to 35,31 To 35,101435,,AR,55.0
+Female,Millennials,Relocation to Native,Junior,Bengaluru,Below 30,26 To 30,101458,,CC,19.0
+Male,Gen X,Relocation to Native,Mid,Bengaluru,Above 35,41 T0 45,101498,,AV,4.0
+Male,Millennials,Personal Reason,Junior,Bengaluru,Below 30,26 To 30,101540,,BF,57.0
+Male,Gen X,Personal Reason,Senior,Gujarath,Above 35,41 T0 45,102521,,BU,123.0
+Male,Millennials,Salary Hike,Junior,Bengaluru,Below 30,26 To 30,100601,,AI,14.0
+Female,Millennials,Higher Studies,Junior,Bengaluru,Below 30,21 To 25,100904,,AI,23.0
+Male,Millennials,Career Growth,Mid,Bengaluru,Above 35,36 T0 40,100598,,AI,105.0
+Male,Millennials,Higher Studies,Junior,Bengaluru,Below 30,26 To 30,101435,,CV,59.0
+Male,Millennials,Career Growth,Junior,Bengaluru,31 to 35,31 To 35,100416,,AD,29.0
+Male,Millennials,Higher Studies,Junior,Bengaluru,Below 30,21 To 25,100679,,AI,23.0
+Male,Millennials,Higher Studies,Junior,Bengaluru,Below 30,21 To 25,100633,,AI,23.0
+Female,Millennials,Relocation to Native,Junior,Bengaluru,31 to 35,31 To 35,100830,,AI,47.0
+Female,Millennials,Salary Hike,Junior,Bengaluru,31 to 35,31 To 35,100605,,AI,63.0
+Female,Millennials,Personal Reason,Junior,Bengaluru,Below 30,26 To 30,100679,,AI,71.0
+Male,Gen X,Miscellaneous,Mid,Bengaluru,Above 35,36 T0 40,100629,,AI,103.0
+Male,Millennials,Health Issues,Junior,Bengaluru,Below 30,26 To 30,100076,,AO,11.0
+Male,Gen X,Career Growth,Mid,Bengaluru,Above 35,36 T0 40,101180,,AO,136.0
+Male,Millennials,Relocation to Native,Junior,Hyderabad,Below 30,26 To 30,101322,,AP,71.0
+Male,Millennials,Personal Reason,Mid,Bengaluru,Above 35,36 T0 40,101498,,AV,9.0
+Female,Millennials,Relocation to Native,Junior,Bengaluru,31 to 35,26 To 30,101099,,CX,98.0
+Male,Millennials,Higher Studies,Junior,Bengaluru,Below 30,21 To 25,100178,,BF,36.0
+Male,Gen X,Personal Reason,Mid,Gujarath,Above 35,41 T0 45,101634,,BU,118.0
+Male,Millennials,Personal Reason,Mid,Bengaluru,Above 35,36 T0 40,101693,,AY,53.0
+Male,Millennials,Miscellaneous,Mid,Bengaluru,31 to 35,31 To 35,100583,,BT,77.0
+Female,Millennials,Higher Studies,Junior,Bengaluru,Below 30,21 To 25,100726,,AI,25.0
+Female,Millennials,Higher Studies,Junior,Bengaluru,Below 30,21 To 25,100745,,AI,25.0
+Male,Millennials,Higher Studies,Junior,Bengaluru,Below 30,21 To 25,100605,,AI,24.0
+Male,Millennials,Higher Studies,Junior,Bengaluru,Below 30,21 To 25,100745,,AI,24.0
+Male,Millennials,Salary Hike,Mid,Bengaluru,31 to 35,26 To 30,100667,,AI,35.0
+Male,Millennials,Higher Studies,Junior,Bengaluru,Below 30,21 To 25,101544,,BF,24.0
+Male,Millennials,Higher Studies,Junior,Bengaluru,Below 30,21 To 25,101492,,BF,28.0
+Female,Millennials,Career Growth,Junior,Bengaluru,31 to 35,26 To 30,101545,,BF,65.0
+Male,Millennials,Career Growth,Mid,Bengaluru,Above 35,36 T0 40,100981,,AI,7.0
+Male,Millennials,Salary Hike,Junior,Bengaluru,31 to 35,26 To 30,101047,,CD,47.0
+Male,Millennials,Career Growth,Mid,Hyderabad,31 to 35,31 To 35,101322,,AP,109.0
+Female,Millennials,Health Issues,Junior,Bengaluru,Below 30,26 To 30,101435,,CV,15.0
+Male,Millennials,Salary Hike,Mid,Bengaluru,Above 35,36 T0 40,101568,,AS,105.0
+Female,Millennials,Health Issues,Junior,Bengaluru,Below 30,26 To 30,100421,,AD,54.0
+Female,Millennials,Internal Politics,Junior,Bengaluru,Below 30,26 To 30,100076,,AO,50.0
+Female,Millennials,Family Problems,Junior,Bengaluru,Below 30,26 To 30,101321,,AP,57.0
+Female,Millennials,Career Growth,Junior,Bengaluru,Below 30,26 To 30,101458,,CC,86.0
+Female,Millennials,Personal Reason,Junior,Bengaluru,Below 30,26 To 30,100285,,AX,3.0
+Female,Millennials,Salary Hike,Mid,Bengaluru,31 to 35,31 To 35,100332,,AX,9.0
+Male,Millennials,Family Problems,Junior,Bengaluru,31 to 35,26 To 30,100568,,BR,39.0
+Male,Millennials,Family Problems,Mid,Bengaluru,Above 35,36 T0 40,100599,,AI,10.0
+Female,Millennials,Family Problems,Mid,Bengaluru,Above 35,36 T0 40,100745,,AI,11.0
+Female,Gen X,Relocated to Other Branch,Junior,Bengaluru,Above 35,36 T0 40,100743,,AI,98.0
+Female,Millennials,Family Problems,Junior,Bengaluru,Above 35,36 T0 40,100076,,AO,13.0
+Female,Millennials,Relocation to Native,Junior,Bengaluru,Below 30,26 To 30,100121,,AO,14.0
+Male,Millennials,Career Growth,Junior,Bengaluru,31 to 35,26 To 30,100076,,AO,27.0
+Male,Millennials,Not Suitable Job for the Skills,Junior,Bengaluru,Below 30,26 To 30,102378,,CQ,7.0
+Female,Gen X,Salary Hike,Junior,Bengaluru,Above 35,36 T0 40,100024,,AI,40.0
+Male,Millennials,Personal Reason,Junior,Bengaluru,31 to 35,31 To 35,100679,,AI,42.0
+Female,Millennials,Salary Hike,Junior,Bengaluru,Below 30,26 To 30,100633,,AI,40.0
+Male,Gen X,Salary Hike,Mid,Bengaluru,Above 35,41 T0 45,101059,,CD,72.0
+Male,Gen X,Work Stress,Mid,Chennai,Above 35,36 T0 40,101252,,BP,16.0
+Female,Millennials,Health Issues,Junior,Bengaluru,Below 30,26 To 30,101545,,BF,40.0
+Female,Millennials,Salary Hike,Junior,Bengaluru,Below 30,26 To 30,100633,,AI,74.0
+Male,Millennials,Relocation to Native,Junior,Bengaluru,31 to 35,31 To 35,100635,,AI,101.0
+Male,Millennials,Career Growth,Junior,Bengaluru,Below 30,21 To 25,100121,,AO,5.0
+Male,Gen X,Career Growth,Mid,Chennai,Above 35,41 T0 45,101252,,BP,41.0
+Female,Millennials,Salary Hike,Junior,Bengaluru,Below 30,26 To 30,101492,,BF,82.0
+Male,Millennials,Salary Hike,Junior,Bengaluru,Below 30,26 To 30,101584,,AS,15.0
+Female,Millennials,Relocation to Native,Junior,Bengaluru,31 to 35,31 To 35,100296,,AX,26.0
+Male,Gen X,Career Growth,Mid,Bengaluru,Above 35,36 T0 40,100439,,AD,35.0
+Male,Millennials,Personal Reason,Junior,Bengaluru,31 to 35,26 To 30,100504,,AZ,31.0
+Male,Millennials,Career Growth,Junior,Bengaluru,Above 35,36 T0 40,100504,,AZ,103.0
+Male,Millennials,Career Growth,Junior,Bengaluru,31 to 35,31 To 35,100024,,AI,18.0
+Male,Millennials,Miscellaneous,Mid,Bengaluru,31 to 35,31 To 35,100076,,AO,50.0
+Male,Millennials,Career Growth,Mid,Bengaluru,Above 35,36 T0 40,100354,,AD,38.0
+Female,Millennials,Miscellaneous,Junior,Bengaluru,31 to 35,26 To 30,100745,,AI,4.0
+Male,Gen X,Career Growth,Mid,Bengaluru,Above 35,41 T0 45,101164,,DJ,141.0
+Male,Millennials,Not Suitable Job for the Skills,Junior,Bengaluru,31 to 35,31 To 35,101200,,DJ,35.0
+Female,Millennials,Career Growth,Junior,Bengaluru,31 to 35,26 To 30,101492,,BF,28.0
+Female,Gen X,Personal Reason,Mid,Bengaluru,Above 35,36 T0 40,100439,,AD,20.0
+Male,Gen X,Salary Hike,Senior,Vadodara,Above 35,41 T0 45,102592,,AD,90.0
+Female,Millennials,Miscellaneous,Mid,Pune,31 to 35,31 To 35,100568,,BR,61.0
+Male,Millennials,Salary Hike,Junior,Bengaluru,31 to 35,21 To 25,100745,,AI,21.0
+Male,Millennials,Higher Studies,Mid,Bengaluru,31 to 35,26 To 30,102433,,AI,92.0
+Male,Gen X,Relocation to Native,Senior,Chennai,Above 35,46 T0 50,101254,,BP,47.0
+Male,Millennials,Career Growth,Junior,Bengaluru,31 to 35,26 To 30,101412,,CV,21.0
+Male,Millennials,Higher Studies,Junior,Bengaluru,31 to 35,26 To 30,100178,,BF,45.0
+Male,Gen X,Salary Hike,Mid,Bengaluru,Above 35,36 T0 40,100854,,AI,131.0
+Male,Millennials,Career Growth,Mid,Bengaluru,31 to 35,31 To 35,101616,,AS,71.0
+Male,Millennials,Personal Reason,Mid,Bengaluru,Above 35,31 To 35,101591,,AS,97.0
+Female,Gen X,Career Growth,Senior,Bengaluru,Above 35,51 T0 55,102611,,AY,31.0
+Male,Millennials,Career Growth,Mid,Bengaluru,31 to 35,31 To 35,101693,,AY,106.0
+Male,Millennials,Salary Hike,Junior,Bengaluru,31 to 35,31 To 35,100583,,BT,40.0
+Male,Millennials,Salary Hike,Junior,Bengaluru,31 to 35,26 To 30,100629,,AI,24.0
+Male,Millennials,Salary Hike,Junior,Bengaluru,31 to 35,21 To 25,100754,,AI,35.0
+Female,Millennials,Relocation to Native,Junior,Bengaluru,31 to 35,26 To 30,101056,,CD,60.0
+Male,Millennials,Higher Studies,Junior,Bengaluru,31 to 35,21 To 25,100188,,BF,35.0
+Female,Millennials,Relocation to Native,Junior,Bengaluru,31 to 35,26 To 30,101545,,BF,40.0
+Female,Millennials,Relocation to Native,Junior,Bengaluru,31 to 35,31 To 35,100179,,BF,78.0
+Male,Millennials,Personal Reason,Mid,Bengaluru,31 to 35,31 To 35,100611,,AD,14.0
+Female,Gen X,Salary Hike,Junior,Bengaluru,Above 35,46 T0 50,100743,,AI,18.0
+Male,Millennials,Career Growth,Mid,Bengaluru,Above 35,36 T0 40,101424,,CV,18.0
+Female,Millennials,Marriage,Junior,Bengaluru,31 to 35,26 To 30,101544,,BF,24.0
+Male,Millennials,Salary Hike,Junior,Bengaluru,31 to 35,21 To 25,101494,,BF,25.0
+Female,Millennials,Family Problems,Junior,Bengaluru,31 to 35,31 To 35,101492,,BF,89.0
+Male,Millennials,Career Growth,Junior,Bengaluru,31 to 35,21 To 25,100350,,AX,24.0
+Male,Millennials,Higher Studies,Junior,Bengaluru,31 to 35,26 To 30,100350,,AX,23.0
+Male,Millennials,Higher Studies,Junior,Bengaluru,31 to 35,21 To 25,100745,,AI,16.0
+Male,Millennials,Higher Studies,Junior,Bengaluru,31 to 35,26 To 30,100745,,AI,48.0
+Male,Millennials,Career Growth,Junior,Bengaluru,31 to 35,26 To 30,100607,,AI,25.0
+Male,Millennials,Relocation to Native,Junior,Bengaluru,Above 35,36 T0 40,101430,,CV,79.0
+Female,Millennials,Family Problems,Junior,Bengaluru,31 to 35,26 To 30,101525,,BF,34.0
+Male,Millennials,Salary Hike,Junior,Bengaluru,31 to 35,26 To 30,101492,,BF,90.0
+Female,Gen X,Personal Reason,Mid,Bengaluru,Above 35,36 T0 40,101540,,BF,121.0
+Male,Millennials,Higher Studies,Junior,Bengaluru,31 to 35,26 To 30,101568,,AS,64.0
+Male,Millennials,Personal Reason,Junior,Bengaluru,31 to 35,26 To 30,101645,,AY,34.0
+Female,Millennials,Family Problems,Junior,Bengaluru,31 to 35,21 To 25,100416,,AD,2.0
+Male,Gen X,Personal Reason,Mid,Bengaluru,Above 35,36 T0 40,100395,,AD,64.0
+Female,Millennials,Higher Studies,Junior,Bengaluru,31 to 35,26 To 30,100514,,BM,110.0
+Male,Gen X,Career Growth,Mid,Bengaluru,Above 35,36 T0 40,101224,,BO,144.0
+Female,Millennials,Higher Studies,Junior,Bengaluru,31 to 35,21 To 25,100605,,AI,49.0
+Female,Millennials,Salary Hike,Junior,Bengaluru,31 to 35,26 To 30,100981,,AI,63.0
+Male,Millennials,Salary Hike,Junior,Bengaluru,31 to 35,26 To 30,101180,,DJ,16.0
+Male,Millennials,Career Growth,Mid,Hyderabad,Above 35,36 T0 40,100591,,AP,112.0
+Male,Millennials,Personal Reason,Mid,Bengaluru,Above 35,36 T0 40,101413,,CV,128.0
+Female,Millennials,Marriage,Junior,Bengaluru,31 to 35,26 To 30,101494,,BF,30.0
+Male,Millennials,Not Interested in JOB,Junior,Bengaluru,31 to 35,26 To 30,100350,,AX,40.0
+Female,Millennials,Career Growth,Junior,Bengaluru,31 to 35,31 To 35,100024,,AI,34.0
+Male,Gen X,Personal Reason,Senior,Bengaluru,Above 35,51 T0 55,102324,,AI,43.0
+Female,Millennials,Marriage,Junior,Bengaluru,31 to 35,26 To 30,100667,,AI,48.0
+Female,Millennials,Health Issues,Mid,Bengaluru,Above 35,36 T0 40,101413,,CV,24.0
+Female,Millennials,Higher Studies,Junior,Bengaluru,31 to 35,26 To 30,101544,,BF,38.0
+Male,Millennials,Salary Hike,Junior,Bengaluru,31 to 35,31 To 35,101544,,BF,105.0
+Male,Millennials,Salary Hike,Junior,Bengaluru,31 to 35,26 To 30,100514,,BM,29.0
+Male,Millennials,Family Problems,Junior,Bengaluru,31 to 35,31 To 35,100754,,AI,32.0
+Female,Millennials,Marriage,Junior,Bengaluru,31 to 35,21 To 25,101200,,DJ,15.0
+Male,Millennials,Career Growth,Mid,Bengaluru,Above 35,36 T0 40,101693,,AY,77.0
+Male,Millennials,Relocation to Native,Mid,Bengaluru,31 to 35,31 To 35,100291,,AX,17.0
+Female,Millennials,Family Problems,Mid,Bengaluru,Above 35,36 T0 40,100296,,AX,50.0
+Male,Millennials,Career Growth,Junior,Bengaluru,31 to 35,26 To 30,100395,,AD,13.0
+Male,Millennials,Salary Hike,Junior,Bengaluru,31 to 35,21 To 25,100515,,BM,20.0
+Male,Millennials,Personal Reason,Mid,Chennai,Above 35,36 T0 40,101251,,BP,7.0
+Male,Millennials,Career Growth,Junior,Bengaluru,31 to 35,31 To 35,101491,,BF,21.0
+Male,Gen X,Personal Reason,Mid,Bengaluru,Above 35,51 T0 55,101701,,AY,141.0
+Male,Gen X,Family Problems,Mid,Bengaluru,Above 35,46 T0 50,102586,,AH,103.0
+Female,Millennials,Career Growth,Junior,Bengaluru,31 to 35,26 To 30,100416,,AD,5.0
+Male,Millennials,Salary Hike,Junior,Bengaluru,31 to 35,26 To 30,100515,,BM,19.0
+Male,Gen X,Salary Hike,Mid,Bengaluru,Above 35,36 T0 40,100605,,AI,140.0
+Female,Millennials,Salary Hike,Junior,Bengaluru,31 to 35,31 To 35,100726,,AI,113.0
+Female,Gen Z,Health Issues,Junior,Bengaluru,31 to 35,21 To 25,101413,,CV,6.0
+Male,Millennials,Salary Hike,Junior,Gujarath,31 to 35,31 To 35,101743,,DG,71.0
+Male,Millennials,Salary Hike,Junior,Bengaluru,31 to 35,21 To 25,100904,,AF,30.0
+Male,Gen X,Career Growth,Mid,Bengaluru,Above 35,36 T0 40,100332,,AX,15.0
+Male,Millennials,Personal Reason,Mid,Bengaluru,Above 35,36 T0 40,101224,,BO,37.0
+Male,Millennials,Career Growth,Junior,Bengaluru,31 to 35,26 To 30,100941,,AI,17.0
+Male,Gen X,Career Growth,Mid,Bengaluru,Above 35,41 T0 45,100754,,AI,102.0
+Male,Millennials,Personal Reason,Junior,Bengaluru,31 to 35,26 To 30,101180,,DJ,15.0
+Male,Millennials,Personal Reason,Junior,Bengaluru,31 to 35,26 To 30,102041,,DJ,25.0
+Female,Millennials,Personal Reason,Junior,Bengaluru,31 to 35,26 To 30,102041,,DJ,29.0
+Male,Gen X,Salary Hike,Mid,Hyderabad,Above 35,46 T0 50,101096,,AP,129.0
+Male,Millennials,Career Growth,Mid,Bengaluru,Above 35,36 T0 40,101424,,CV,93.0
+Male,Gen X,Not Interested in JOB,Mid,Bengaluru,Above 35,36 T0 40,101491,,BF,116.0
+Male,Gen X,Personal Reason,Mid,Bengaluru,Above 35,41 T0 45,101540,,BF,140.0
+Male,Millennials,Personal Reason,Junior,Bengaluru,31 to 35,31 To 35,101568,,AS,109.0
+Male,Millennials,Personal Reason,Mid,Bengaluru,Above 35,36 T0 40,100629,,DI,127.0
+Female,Millennials,Salary Hike,Junior,Bengaluru,31 to 35,21 To 25,100395,,AD,2.0
+Male,Millennials,Salary Hike,Mid,Bengaluru,31 to 35,26 To 30,100941,,AI,50.0
+Male,Millennials,Personal Reason,Junior,Bengaluru,31 to 35,26 To 30,101200,,DJ,43.0
+Male,Millennials,Salary Hike,Junior,Bengaluru,31 to 35,26 To 30,100179,,BF,55.0
+Male,Millennials,Career Growth,Mid,Bengaluru,Above 35,36 T0 40,101616,,AS,57.0
+Male,Gen X,Personal Reason,Mid,Bengaluru,Above 35,36 T0 40,101696,,AY,111.0
+Male,Gen X,Personal Reason,Mid,Bengaluru,Above 35,46 T0 50,101696,,AY,145.0
+Female,Millennials,Personal Reason,Junior,Bengaluru,31 to 35,21 To 25,100243,,DT,6.0
+Female,Millennials,Salary Hike,Junior,Bengaluru,31 to 35,26 To 30,100291,,AX,38.0
+Male,Millennials,Personal Reason,Junior,Bengaluru,31 to 35,31 To 35,100395,,AD,69.0
+Male,Millennials,Personal Reason,Mid,Bengaluru,31 to 35,31 To 35,100439,,AD,15.0
+Female,Millennials,Personal Reason,Junior,Bengaluru,31 to 35,31 To 35,102041,,DJ,30.0
+Female,Millennials,Salary Hike,Junior,Bengaluru,31 to 35,26 To 30,101430,,CV,80.0
+Male,Millennials,Salary Hike,Junior,Bengaluru,31 to 35,26 To 30,100515,,BM,27.0
+Female,Millennials,Higher Studies,Junior,Bengaluru,31 to 35,26 To 30,100633,,BQ,45.0
+Male,Millennials,Personal Reason,Mid,Bengaluru,Above 35,31 To 35,100754,,AI,15.0
+Male,Millennials,Career Growth,Junior,Bengaluru,31 to 35,31 To 35,101036,,AI,96.0
+Male,Gen X,Higher Studies,Mid,Bengaluru,Above 35,36 T0 40,101200,,DJ,79.0
+Male,Millennials,Personal Reason,Junior,Bengaluru,Above 35,36 T0 40,100254,,DU,43.0
+Male,Millennials,Career Growth,Junior,Bengaluru,31 to 35,26 To 30,101776,,AF,44.0
+Female,Millennials,Career Growth,Junior,Bengaluru,31 to 35,26 To 30,100439,,AD,26.0
+Female,Millennials,Personal Reason,Mid,Bengaluru,Above 35,36 T0 40,100439,,AD,82.0
+Male,Millennials,Salary Hike,Junior,Bengaluru,31 to 35,26 To 30,100515,,BM,27.0
+Female,Millennials,Higher Studies,Junior,Bengaluru,31 to 35,21 To 25,101965,,AI,34.0
+Male,Millennials,Personal Reason,Mid,Bengaluru,31 to 35,31 To 35,101693,,AY,31.0
+Male,Millennials,Salary Hike,Mid,Bengaluru,31 to 35,31 To 35,101693,,AY,70.0
+Male,Millennials,Career Growth,Mid,Bengaluru,Above 35,36 T0 40,101569,,AY,141.0
+Male,Millennials,Salary Hike,Junior,Bengaluru,31 to 35,31 To 35,100243,,DT,102.0
+Male,Millennials,Career Growth,Junior,Bengaluru,31 to 35,26 To 30,100439,,AD,13.0
+Female,Millennials,Salary Hike,Junior,Bengaluru,31 to 35,21 To 25,101200,,DX,19.0
+Female,Gen Z,Salary Hike,Junior,Bengaluru,31 to 35,21 To 25,100296,,AX,24.0
+Male,Millennials,Salary Hike,Junior,Bengaluru,31 to 35,26 To 30,100515,,BM,30.0
+Male,Millennials,Career Growth,Mid,Bengaluru,31 to 35,26 To 30,102324,,AI,109.0
+Male,Millennials,Personal Reason,Junior,Bengaluru,31 to 35,31 To 35,100948,C,AF,77.0
+Male,Millennials,Career Growth,Mid,Bengaluru,Above 35,36 T0 40,100296,B,AX,49.0
+Female,Millennials,Higher Studies,Junior,Bengaluru,31 to 35,21 To 25,101430,B,CV,38.0
+Male,Millennials,Personal Reason,Junior,Bengaluru,31 to 35,26 To 30,101545,D,BF,39.0
+Female,Millennials,Personal Reason,Mid,Bengaluru,Above 35,36 T0 40,101591,D,AS,32.0
+Male,Gen X,Career Growth,Mid,Bengaluru,Above 35,36 T0 40,101550,C,AY,110.0
+Male,Millennials,Salary Hike,Mid,Bengaluru,Above 35,36 T0 40,100286,A,AX,22.0
+Male,Millennials,Salary Hike,Junior,Bengaluru,31 to 35,26 To 30,100605,B,AI,20.0
+Female,Millennials,Personal Reason,Junior,Bengaluru,31 to 35,26 To 30,101336,,AP,9.0
+Female,Gen X,Personal Reason,Senior,Bengaluru,Above 35,41 T0 45,102582,A,AF,11.0
+Male,Gen Z,Personal Reason,Junior,Bengaluru,31 to 35,21 To 25,100349,,AI,3.0
+Female,Millennials,Career Growth,Junior,Bengaluru,31 to 35,26 To 30,101059,C,CD,100.0
+Male,Millennials,Personal Reason,Junior,Bengaluru,31 to 35,26 To 30,102041,A,DJ,29.0
+Male,Millennials,Salary Hike,Junior,Bengaluru,31 to 35,26 To 30,100780,,DY,32.0
+Male,Millennials,Relocated to Other Branch,Junior,Bengaluru,31 to 35,26 To 30,101693,C,AY,32.0
+Male,Millennials,Personal Reason,Junior,Bengaluru,31 to 35,21 To 25,101645,C,AY,40.0
+Male,Millennials,Career Growth,Junior,Bengaluru,31 to 35,21 To 25,100332,B,AX,41.0
+Male,Millennials,Career Growth,Junior,Bengaluru,31 to 35,21 To 25,100633,B,BQ,18.0
+Male,Gen X,Salary Hike,Mid,Bengaluru,Above 35,41 T0 45,100568,C,BR,84.0
+Male,Gen Z,Personal Reason,Junior,Bengaluru,31 to 35,21 To 25,100738,,AI,4.0
+Male,Millennials,Salary Hike,Mid,Bengaluru,Above 35,36 T0 40,100941,B,AI,28.0
+Male,Millennials,Personal Reason,Mid,Bengaluru,Above 35,36 T0 40,101693,A,AY,148.0
+Female,Millennials,Career Growth,Junior,Bengaluru,31 to 35,31 To 35,100354,,AD,79.0
+Female,Millennials,Personal Reason,Mid,Bengaluru,31 to 35,26 To 30,100307,,DR,17.0
+Female,Millennials,Personal Reason,Junior,Bengaluru,Above 35,31 To 35,101492,,BF,87.0
+Female,Millennials,Personal Reason,Junior,Vadodara,31 to 35,26 To 30,102697,,AS,28.0
+Male,Millennials,Salary Hike,Junior,Bengaluru,31 to 35,26 To 30,101200,,DX,25.0
+Male,Millennials,Personal Reason,Junior,Bengaluru,31 to 35,31 To 35,100774,,AI,13.0
+Female,Millennials,Personal Reason,Junior,Bengaluru,31 to 35,31 To 35,100738,,AI,90.0
+Female,Millennials,Salary Hike,Junior,Bengaluru,31 to 35,26 To 30,101816,,DR,24.0
+Male,Millennials,Personal Reason,Junior,Hyderabad,31 to 35,26 To 30,102666,,AP,13.0
+Female,Millennials,Personal Reason,Mid,Bengaluru,31 to 35,31 To 35,101096,,AP,16.0
+Male,Millennials,Salary Hike,Junior,Bengaluru,31 to 35,31 To 35,101336,,AP,29.0
+Female,Millennials,Personal Reason,Junior,Bengaluru,31 to 35,26 To 30,101430,,CV,18.0
+Male,Millennials,Career Growth,Junior,Bengaluru,31 to 35,26 To 30,101492,,BF,34.0
+Male,Millennials,Salary Hike,Junior,Bengaluru,Above 35,31 To 35,101706,,AY,28.0
+Male,Millennials,Salary Hike,Mid,Bengaluru,31 to 35,31 To 35,101693,,AY,83.0
+Female,Millennials,Salary Hike,Junior,Bengaluru,31 to 35,26 To 30,101200,,DX,30.0
+Male,Gen Z,Health Issues,Junior,Chennai,31 to 35,21 To 25,101237,,BP,6.0
+Female,Millennials,Personal Reason,Junior,Bengaluru,31 to 35,26 To 30,101492,,BF,39.0
+Male,Millennials,Career Growth,Junior,Bengaluru,31 to 35,26 To 30,101706,,AY,58.0
+Male,Millennials,Career Growth,Mid,Bengaluru,Above 35,36 T0 40,101693,,AY,115.0
+Male,Millennials,Salary Hike,Mid,Bengaluru,31 to 35,31 To 35,101059,,CD,95.0
+Male,Gen X,Career Growth,Junior,Bengaluru,Above 35,41 T0 45,101394,,CV,48.0
+Male,Millennials,Career Growth,Junior,Bengaluru,31 to 35,26 To 30,100780,,DY,25.0
+Male,Millennials,Relocated to Other Branch,Mid,Bengaluru,31 to 35,26 To 30,100726,,AD,9.0
+Male,Millennials,Career Growth,Junior,Bengaluru,31 to 35,26 To 30,100784,,AI,30.0
+Female,Millennials,Career Growth,Junior,Bengaluru,31 to 35,31 To 35,102026,,CB,124.0
+Male,Gen X,Personal Reason,Mid,Bengaluru,Above 35,36 T0 40,101544,,BF,141.0
+Male,Millennials,Personal Reason,Junior,Bengaluru,Above 35,36 T0 40,101492,,BF,137.0
+Male,Millennials,Career Growth,Mid,Bengaluru,Above 35,36 T0 40,101586,,AS,113.0
+Female,Millennials,Personal Reason,Junior,Bengaluru,31 to 35,31 To 35,100243,,DT,5.0
+Male,Millennials,Salary Hike,Junior,Bengaluru,31 to 35,26 To 30,101200,,DX,36.0
+Male,Millennials,Salary Hike,Mid,Bengaluru,Above 35,36 T0 40,102718,,DX,43.0
+Male,Millennials,Personal Reason,Mid,Bengaluru,31 to 35,31 To 35,100326,,AX,2.0
+Male,Millennials,Personal Reason,Mid,Bengaluru,Above 35,31 To 35,100693,,AI,22.0
+Female,Millennials,Personal Reason,Junior,Bengaluru,31 to 35,26 To 30,100738,,AI,59.0
+Male,Millennials,Higher Studies,Mid,Bengaluru,31 to 35,31 To 35,100240,,DR,30.0
+Female,Millennials,Personal Reason,Junior,Bengaluru,31 to 35,31 To 35,101058,,CD,132.0
+Female,Millennials,Personal Reason,Junior,Bengaluru,31 to 35,26 To 30,100121,,DJ,38.0
+Male,Gen X,Personal Reason,Mid,Bengaluru,Above 35,41 T0 45,101348,,AP,16.0
+Female,Millennials,Personal Reason,Junior,Vadodara,31 to 35,31 To 35,102685,,DW,24.0
+Male,Millennials,Career Growth,Junior,Bengaluru,31 to 35,26 To 30,102165,,DY,53.0
+Male,Gen X,Personal Reason,Mid,Vadodara,Above 35,41 T0 45,102705,,AS,133.0
+Male,Millennials,Career Growth,Junior,Bengaluru,31 to 35,26 To 30,101693,,AY,39.0
+Male,Millennials,Career Growth,Junior,Bengaluru,31 to 35,26 To 30,101550,,AY,48.0
+Male,Millennials,Personal Reason,Mid,Bengaluru,31 to 35,26 To 30,101693,,AY,48.0

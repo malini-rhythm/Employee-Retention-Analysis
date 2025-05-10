@@ -1,0 +1,14 @@
+Gender,Generation,Term Sub Reason,Employee Grade,Location,Career Bucket,Age Bucket,Manager ID,Talent,Department,active_months
+Male,Millennials,Career Growth,Junior,Gujarath,31 to 35,31 To 35,102391,,BA,159.0
+Male,Millennials,Career Growth,Mid,Bengaluru,31 to 35,31 To 35,100854,,AI,156.0
+Female,Millennials,Salary Hike,Mid,Bengaluru,31 to 35,31 To 35,100607,,AI,154.0
+Male,Gen X,Personal Reason,Mid,Bengaluru,Above 35,41 T0 45,102634,,AY,173.0
+Male,Gen X,Personal Reason,Mid,Bengaluru,Above 35,41 T0 45,102324,,AI,190.0
+Male,Gen X,Personal Reason,Mid,Bengaluru,Above 35,36 T0 40,100017,,AB,152.0
+Male,Gen X,Personal Reason,Mid,Bengaluru,Above 35,46 T0 50,100439,,AD,192.0
+Male,Gen X,Salary Hike,Mid,Bengaluru,Above 35,41 T0 45,100598,,AI,187.0
+Male,Millennials,Relocated to Other Branch,Mid,Bengaluru,Above 35,36 T0 40,101644,,DI,168.0
+Male,Gen X,Career Growth,Senior,Bengaluru,Above 35,46 T0 50,102410,,BQ,174.0
+Female,Gen X,Personal Reason,Junior,Bengaluru,Above 35,41 T0 45,102324,,AI,175.0
+Male,Gen X,Personal Reason,Mid,Bengaluru,Above 35,41 T0 45,100421,,AD,173.0
+Female,Gen X,Personal Reason,Senior,Bengaluru,Above 35,46 T0 50,102351,,BF,188.0
